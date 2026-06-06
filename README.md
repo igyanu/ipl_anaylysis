@@ -111,13 +111,13 @@ Users can select any batsman or bowler from the dropdown menu and analyze their 
 ## 🖼 Dashboard Screenshots
 
 ### Main Dashboard
-![Main Dashboard](screenshots/main_dashboard.png)
+!['dashboard screenshot']('screenshots/kohli in 2024'.png)
 
 ### Season Analysis
-![Season Analysis](screenshots/season_dashboard.png)
+!['dashboard screenshot'](screenshots/purple_cap.png)
 
 ### Player Analysis
-![Player Analysis](screenshots/player_dashboard.png)
+!['dashboard screenshot'](screenshots/winn by toss decision.png)
 
 ---
 
