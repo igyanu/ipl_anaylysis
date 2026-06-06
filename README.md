@@ -108,19 +108,6 @@ Users can select any batsman or bowler from the dropdown menu and analyze their 
 - Tournament Awards
 ---
 
-## 🖼 Dashboard Screenshots
-
-### Main Dashboard
-!['dashboard screenshot']('screenshots/kohli in 2024'.png)
-
-### Season Analysis
-!['dashboard screenshot'](screenshots/purple_cap.png)
-
-### Player Analysis
-!['dashboard screenshot'](screenshots/winn by toss decision.png)
-
----
-
 ## 🔍 Business Intelligence Concepts Used
 
 ### Data Modeling
@@ -169,7 +156,7 @@ IPL-Analysis-Dashboard/
 ├── dataset/
 │   ├── IPL_Data.csv
 │   └── deliveries.zip
-└── screenshots/
+└── dashboard screenshots/
     ├── kohli in 2024.png
     ├── purple_cap.png
     ├── win by toss decision.png
